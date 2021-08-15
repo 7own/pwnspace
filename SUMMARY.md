@@ -22,5 +22,6 @@
 
 ---
 
+* [Tools](tools.md)
 * [Links](links.md)
 
