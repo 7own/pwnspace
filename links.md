@@ -20,7 +20,7 @@
 
 {% embed url="https://github.com/pwndoc/pwndoc" caption="Pentest report automation" %}
 
-## Domains and websites
+## Free Domains and Certificates
 
 
 
