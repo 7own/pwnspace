@@ -1,5 +1,5 @@
 ---
-description: Intermediate level
+description: VulnHub box - Intermediate level
 ---
 
 # Solstice
@@ -86,5 +86,5 @@ www-data@solstice:/var/tmp/sv$ curl http://127.0.0.1:57/
 # Get it ! We have Root shell !
 ```
 
-
+![Steps from LFI to privilege escalation](../../.gitbook/assets/2021-08-20_19h04_21.png)
 
