@@ -18,7 +18,8 @@
 
 * [HackTheBox](ctf-walkthrough/hackthebox/README.md)
   * [Untitled](ctf-walkthrough/hackthebox/untitled.md)
-* [VulnHub](ctf-walkthrough/vulnhub.md)
+* [VulnHub](ctf-walkthrough/vulnhub/README.md)
+  * [Solstice](ctf-walkthrough/vulnhub/solstice.md)
 
 ---
 
