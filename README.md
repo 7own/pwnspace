@@ -8,7 +8,7 @@ As it turns out, this is not only my home — but _yours_ too.
 ## What can you find there ?
 
 I try to upload all my walkthrough from differents hacking platform such as HackTheBox, VulnHub, Proving Grounds, ...  
-A part of hacking notes can be found too. I use it as a cheat sheet, and you can too !  
+A part of my hacking notes can be found too. I use it as a cheat sheet, you can too !  
 May i will update it when i can. The big part of my notes is available offline and it is a big work to copy and format it. Thank you for understanding !
 
 ## This website is incomplete.
