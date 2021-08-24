@@ -11,6 +11,8 @@ I try to upload all my walkthrough from differents hacking platform such as Hack
 A part of my hacking notes can be found too. I use it as a cheat sheet, you can too !  
 May i will update it when i can. The big part of my notes is available offline and it is a big work to copy and format it. Thank you for understanding !
 
+`VHJ5IGhhcmRlciBpcyB0aGUgbW9zdCBpbXBvcnRhbnQgdGhpbmcsIGRvbid0IGZvcmdldCB0aGlzICE=`
+
 ## This website is incomplete.
 
 Sorry there is not much here right now. I'll add more to it soon.  
