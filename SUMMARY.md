@@ -23,7 +23,9 @@
 
 ## Programming <a id="programming-1"></a>
 
+* [Projects](programming-1/projects.md)
 * [Python](programming-1/python/README.md)
+  * [PyToExe](programming-1/python/pytoexe.md)
   * [Create, write, read file](programming-1/python/create-write-read-file.md)
 
 ---
