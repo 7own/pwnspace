@@ -33,3 +33,8 @@
 * [Tools](tools.md)
 * [Links](links.md)
 
+## Veille Technologique
+
+* [Podcast](veille-technologique/podcast.md)
+* [Links](veille-technologique/links.md)
+
