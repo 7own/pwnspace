@@ -5,7 +5,7 @@
 Thanks for accidentally stumbling upon my small stake of the Internet; I'm happy you're here.  
 As it turns out, this is not only my home — but _yours_ too.
 
-## What can you find there ?
+## What can you find here ?
 
 I try to upload all my walkthrough from differents hacking platform such as HackTheBox, VulnHub, Proving Grounds, ...  
 A part of my hacking notes can be found too. I use it as a cheat sheet, you can too !  
