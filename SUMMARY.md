@@ -27,6 +27,7 @@
 * [Python](programming-1/python/README.md)
   * [PyToExe](programming-1/python/pytoexe.md)
   * [Create, write, read file](programming-1/python/create-write-read-file.md)
+  * [Reverse strings](programming-1/python/reverse-strings.md)
 
 ---
 
