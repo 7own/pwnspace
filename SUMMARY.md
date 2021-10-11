@@ -21,15 +21,16 @@
 * [VulnHub](ctf-walkthrough/vulnhub/README.md)
   * [Solstice](ctf-walkthrough/vulnhub/solstice.md)
 
-## Programming <a id="programming-1"></a>
+## Programming <a href="programming-1" id="programming-1"></a>
 
 * [Projects](programming-1/projects.md)
 * [Python](programming-1/python/README.md)
   * [PyToExe](programming-1/python/pytoexe.md)
   * [Create, write, read file](programming-1/python/create-write-read-file.md)
   * [Reverse strings](programming-1/python/reverse-strings.md)
+  * [Sockets](programming-1/python/sockets.md)
 
----
+***
 
 * [Tools](tools.md)
 * [Links](links.md)
@@ -38,4 +39,3 @@
 
 * [Podcast](veille-technologique/podcast.md)
 * [Links](veille-technologique/links.md)
-
