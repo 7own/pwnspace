@@ -5,6 +5,7 @@
 ## Pentesting
 
 * [Windows](pentesting/windows/README.md)
+  * [RDP Session Hijack](pentesting/windows/rdp-session-hijack.md)
   * [NTFS](pentesting/windows/ntfs.md)
 * [Linux](pentesting/linux.md)
 * [Active Directory](pentesting/active-directory.md)
